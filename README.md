@@ -1,0 +1,2 @@
+# kazuha
+🦊 Random Fox API
